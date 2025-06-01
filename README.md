@@ -25,5 +25,3 @@ Follow these steps to run Task Flow locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/task-flow.git
-cd task-flow
